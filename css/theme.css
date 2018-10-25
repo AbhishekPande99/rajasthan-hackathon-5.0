@@ -376,7 +376,9 @@ section {
 
 .login-content {
     background: #fff;
-    padding: 30px 30px 20px;
+    justify-content: center;
+    text-align: left;	
+    padding: 30px 30px 20px 20px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
@@ -524,7 +526,7 @@ section {
     background: #808080;
     padding: 0 40px;
     font-size: 15px;
-    color: #fff;
+    color: #ffc600;
 }
 
 .au-btn-load:hover {
